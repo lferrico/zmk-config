@@ -27,7 +27,8 @@
                   &kp LGUI &mo 2 &kp SPACE   &kp RET &mo 3 &kp RALT
                         >;
                 };
-colemak_layer {
+
+                colemak_layer {
 // -----------------------------------------------------------------------------------------
 // |  TAB |  Q  |  W  |  F  |  P  |  G  |   |  J  |  L  |  U  |  Y  |  ;  | BKSP |
 // | CTRL |  A  |  R  |  S  |  T  |  D  |   |  H  |  N  |  E  |  I  |  O  |  '   |
@@ -44,7 +45,7 @@ colemak_layer {
 
 
 
-      wasd_layer {
+                wasd_layer {
 // -----------------------------------------------------------------------------------------
 // | ESC |  G  |  Q  |  W  |  E  |  R  |  |  T  |  Y  |  UP |  I  |  O  |  P  | BKSP |
 // | TAB |SHFT |  A  |  S  |  D  |  F  |  |  H  | LEFT| DOWN| RGHT|  L  |  ;  |  '   |  
@@ -58,6 +59,8 @@ colemak_layer {
                    &mo 2 &kp G &kp SPACE   &kp RET &mo 3 &kp RALT
                         >;
                 };
+
+
                 lower_layer {
 // -----------------------------------------------------------------------------------------
 // |  TAB |  1  |  2  |  3  |  4  |  5  |   |  6  |  7  |  8  |  9  |  0  | BKSP |
@@ -88,5 +91,4 @@ colemak_layer {
                         >;
                 };
   };
-
 };
