@@ -54,8 +54,8 @@
                         display-name = "WASD";
                         bindings = <
     &kp ESC   &kp G &kp Q &kp W &kp E &kp R   &kp T &kp Y  &kp UP  &kp I   &kp O    &kp P    &kp BSPC
-    &kp TAB   &kp LSHFT &kp A &kp S &kp D &kp F   &kp H &kp LEFT &kp DOWN&kp RGHT&kp L    &kp SEMI &kp SQT
-    &kp V     &kp LCTRL &kp Z &kp X &kp C &kp V   &kp B &kp N   &kp COMMA&kp DOT &kp FSLH &kp GRAVE &kp TILDE
+    &kp TAB   &kp LSHFT &kp A &kp S &kp D &kp F   &kp H &kp LEFT &kp DOWN &kp RGHT &kp L    &kp SEMI &kp SQT
+    &kp V     &kp LCTRL &kp Z &kp X &kp C &kp V   &kp B &kp N   &kp COMMA &kp DOT &kp FSLH &kp GRAVE &kp TILDE
                    &mo 2 &kp G &kp SPACE   &kp RET &mo 3 &kp RALT
                         >;
                 };
